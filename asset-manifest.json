@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cookies/static/css/main.e06aa353.chunk.css",
+    "main.js": "/cookies/static/js/main.3ecfc1cc.chunk.js",
+    "main.js.map": "/cookies/static/js/main.3ecfc1cc.chunk.js.map",
+    "runtime-main.js": "/cookies/static/js/runtime-main.5d8aede8.js",
+    "runtime-main.js.map": "/cookies/static/js/runtime-main.5d8aede8.js.map",
+    "static/js/2.496fb3c9.chunk.js": "/cookies/static/js/2.496fb3c9.chunk.js",
+    "static/js/2.496fb3c9.chunk.js.map": "/cookies/static/js/2.496fb3c9.chunk.js.map",
+    "static/js/3.fd3fb781.chunk.js": "/cookies/static/js/3.fd3fb781.chunk.js",
+    "static/js/3.fd3fb781.chunk.js.map": "/cookies/static/js/3.fd3fb781.chunk.js.map",
+    "index.html": "/cookies/index.html",
+    "static/css/main.e06aa353.chunk.css.map": "/cookies/static/css/main.e06aa353.chunk.css.map",
+    "static/js/2.496fb3c9.chunk.js.LICENSE.txt": "/cookies/static/js/2.496fb3c9.chunk.js.LICENSE.txt",
+    "static/media/asbLogo.72c4a9c9.svg": "/cookies/static/media/asbLogo.72c4a9c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d8aede8.js",
+    "static/js/2.496fb3c9.chunk.js",
+    "static/css/main.e06aa353.chunk.css",
+    "static/js/main.3ecfc1cc.chunk.js"
+  ]
+}

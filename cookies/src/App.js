@@ -20,7 +20,7 @@ function App() {
               </h2>
               <ul>
                 <li className="title">Localsumer - Product Design</li>
-                <p>From <a href="https://www.behance.net/gallery/99482723/Localsumer-Business-Directory" target="_blank">ideation</a> to launch of the <a href="https://www.localsumer.com/" target="_blank">a B2B, B2C web app</a></p>
+                <p>From <a href="https://www.behance.net/gallery/99482723/Localsumer-Business-Directory" target="_blank">ideation</a> to launch of a<a href="https://www.localsumer.com/" target="_blank"> B2B, B2C web app</a></p>
                 Learn more about Localsumer in this <a href="https://www.youtube.com/watch?v=Tjxtfp9kzco" target="_blank">video</a>. 👈🏼
                 <p><i> (psst... psst... before launching we made it to round two of <a href="https://masschallenge.org/programs-mexico" target="_blank">MassChallenge Mexico</a>, and we celebrate that! 🎉)</i></p>
                 <p>Also, don't forget to follow us on <a href="https://www.instagram.com/localsumer/" target="_blank">IG</a>!😉</p>

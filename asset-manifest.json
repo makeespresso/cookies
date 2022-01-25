@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cookies/static/css/main.8e7a1f3e.chunk.css",
+    "main.css": "/cookies/static/css/main.a45803b7.chunk.css",
     "main.js": "/cookies/static/js/main.03a15045.chunk.js",
     "main.js.map": "/cookies/static/js/main.03a15045.chunk.js.map",
     "runtime-main.js": "/cookies/static/js/runtime-main.5d8aede8.js",
@@ -10,13 +10,13 @@
     "static/js/3.fd3fb781.chunk.js": "/cookies/static/js/3.fd3fb781.chunk.js",
     "static/js/3.fd3fb781.chunk.js.map": "/cookies/static/js/3.fd3fb781.chunk.js.map",
     "index.html": "/cookies/index.html",
-    "static/css/main.8e7a1f3e.chunk.css.map": "/cookies/static/css/main.8e7a1f3e.chunk.css.map",
+    "static/css/main.a45803b7.chunk.css.map": "/cookies/static/css/main.a45803b7.chunk.css.map",
     "static/js/2.c21bd6fc.chunk.js.LICENSE.txt": "/cookies/static/js/2.c21bd6fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d8aede8.js",
     "static/js/2.c21bd6fc.chunk.js",
-    "static/css/main.8e7a1f3e.chunk.css",
+    "static/css/main.a45803b7.chunk.css",
     "static/js/main.03a15045.chunk.js"
   ]
 }

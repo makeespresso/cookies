@@ -26,11 +26,12 @@ export default class Navbar extends Component {
     return (
       <div className="NavbarContent">
         <div className="IntroHeader">
-          <h1 id="name"><a href="https://www.linkedin.com/in/anasbenedict/" target="_blanks">Ana S. Benedict</a></h1>
+          <h1 id="name">Ana S. Benedict</h1>
           <p> User Experience Designer</p>
           </div>
 <div className="ThirdWidthIntroHeader">
         <p><a href="https://github.com/makeespresso" target="_blank">Github</a></p>
+        <p><a href="https://www.linkedin.com/in/anasbenedict/" target="_blank">LinkedIn</a></p>
         </div>
       </div>
     );

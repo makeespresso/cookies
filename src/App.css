@@ -122,7 +122,7 @@ font-weight: 600;
 a{
   text-decoration: none;
   font-weight: 800;
-  color:#F27059;
+  color:#000;
 }
 a:visited {
   color:#000;
@@ -168,8 +168,6 @@ justify-content: space-between;
   width:33%;
   height: 100%;
   font-family: 'Playfair Display', serif;
-
-
 }
 
 .ThirdWidthIntroHeader{

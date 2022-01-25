@@ -118,7 +118,7 @@ function App() {
                 <br></br>
                 <li className="title">ETF - UX/UI Design</li>
                 <p>Web App redesign 📸</p> 
-                <p>Watch the <a href="https://drive.google.com/file/d/1dii1So3FnSlWGIKlEYGQzykfzgPyjM2o/view?usp=sharing" target="_blank">final result</a>.</p>
+                <p>Watch the <a href="https://drive.google.com/file/d/1dii1So3FnSlWGIKlEYGQzykfzgPyjM2o/view?usp=sharing" style="color: #000; text-decoration: none" target="_blank">final result</a>.</p>
                 <p>See the <a href="https://drive.google.com/file/d/1WnxsNw5WEzZKmNrmvGL2C5YJhvhwf1GD/view?usp=sharing" target="_blank">design process</a> 🔁 and <a href="https://drive.google.com/file/d/1GCHbtdNG2Vdc5MCP9tqimNDzB2VZwgFE/view?usp=sharing" target="_blank">visual design</a>.🎨</p>
                 <br></br>
                 <li className="title">XO Espresso Bar - UX/UI Consultation </li>

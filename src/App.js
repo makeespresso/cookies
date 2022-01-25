@@ -95,7 +95,7 @@ function App() {
     <div className="content">
             <div className="aboutContent">
               <p>
-                Hello, I am a Product Designer and Web Developer based in
+                Hello, UX/UI Designer and Web Developer based in
                 NYC, currently exploring Mar de Cortéz 🌊🌵🌞. I speak Spanish, English and
                 Italian. Barista by passion and fan of Mediterranean cuisine. ✌🏼
               </p>

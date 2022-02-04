@@ -130,6 +130,26 @@ function App() {
               <br></br>
               <br></br>
               <h2>
+                <span>Case Studies</span>
+              </h2>
+              <ul>
+                <li className="title">Monster 👾</li>
+                <p><b>Add a feature</b></p>
+                <p>The challenge: To analyze an App and incorporate a new feature into the existing product.</p>
+                <p>Read the <a href="https://medium.com/@anamendivil/monster-9cd85006c090" target="_blank"> case study 🎯</a></p>
+                <br></br>
+                <li className="title">Hot Yoga Brickell 🧘🏽‍♂️</li>
+                <p>The purpose of this project is to re-design Hot Yoga Brickell website by doing a deep research, business analysis and user testability in order to create a more user-centered allowing the user to accomplish their purposes and company retain their client interaction. 🛎</p>
+                <p>Read the case study <a href="https://medium.com/@anamendivil/hot-yoga-case-study-8aae4e8820f5" target="_blank"> here </a> 	&#38; learn more about the <a href="https://github.com/makeespresso/hotyogabrickell/tree/master/hotyogabrickell" target="_blank"> technical aspects</a></p>
+                <br></br>
+                <li className="title">White Stone 🛋</li>
+                <p><b>Editorial — e-Magazine</b></p>
+                <p>Design a responsive online platform for a magazine, newspaper or blog directed to meet the needs and goals of one of the given User Personas. 💫</p>
+                <p>Read the case study <a href="https://medium.com/@anamendivil/editorial-e-magazine-8b1de16e0d12" target="_blank" >here</a></p>
+              </ul>
+              <br></br>
+              <br></br>
+              <h2>
                 <span>Collaborations</span>
               </h2>
               <ul>

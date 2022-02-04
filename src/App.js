@@ -103,7 +103,7 @@ function App() {
             <div className="projects list-section">
 
               <h2>
-                <span>Selected work 2019-2021</span>
+                <span>Selected work</span>
               </h2>
               <ul>
                 <li className="title">Localsumer - Product Design</li>

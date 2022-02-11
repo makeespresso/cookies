@@ -126,6 +126,7 @@ function App() {
                   Collaboration with specialty coffee shop with Aussie vibes and instagrammable drinks in the heart of Miami beach. 🏖
                   Designed talent pipeline to help the company accelerate and facilitate their hiring process as they continue to grow.</p> 
                   <p>Take a look at the case study <a href="https://www.canva.com/design/DADua4nuPws/tWNtNjv26HwHCymlfxe0hw/view?utm_content=DADua4nuPws&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">here</a>. Also, their <a href="https://www.instagram.com/xoespressobar/" target="_blank">IG</a> is so chic! 💁🏻‍♀️☕️</p>
+                  <p><a href="https://medium.com/@anamendivil/xo-espresso-bar-image-documentation-efa3eb0d0e41" target="_blank"> Image documentation</a></p>
               </ul>
               <br></br>
               <br></br>

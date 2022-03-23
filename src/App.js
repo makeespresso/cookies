@@ -9,7 +9,7 @@ function App() {
     <div className="content">
             <div className="aboutContent">
               <p>
-              Hello, I am a Design Technologist based in NYC, currently exploring Mar de Cortéz 🌊🌵🌞. I speak Spanish, English and
+              Hello, I am a Product Designer based in NYC, currently exploring Mar de Cortéz 🌊🌵🌞. I speak Spanish, English and
                 Italian. Barista by passion and fan of Mediterranean cuisine. ✌🏼
               </p>
             </div>

@@ -11,7 +11,7 @@ function App() {
               <p>
                 Hello, I am a Product Designer and Web Developer based in
                 NYC, currently exploring Mar de Cortéz 🌊🌵🌞. I speak Spanish, English and
-                Italian. Barista by passion and fan of Mediterranean cuisine. ✌🏼
+                Italian. Fan of Mediterranean cuisine and currently reading Violeta by Isabel Allende. ✌🏼
               </p>
             </div>
             <div className="projects list-section">

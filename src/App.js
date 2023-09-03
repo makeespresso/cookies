@@ -10,7 +10,7 @@ function App() {
             <div className="aboutContent">
               <p>
               Hello, I am a Product Designer based in NYC, currently exploring Mar de Cortéz 🌊🌵🌞. I speak Spanish, English and
-                Italian. Barista by passion and fan of Mediterranean cuisine. ✌🏼
+                Italian. Fan of Mediterranean cuisine and currently reading Violeta by Isabel Allende. ✌🏼
               </p>
             </div>
             <div className="projects list-section">
@@ -73,6 +73,11 @@ function App() {
                 <p>
                   Teaching Intro to programming and Intro to UX/UI Design workshops. Recently
                   led the first intro classes taught in Spanish for LATAM!👩🏻‍💻🌎
+                </p>
+                <br></br>
+                <li className="title">UX Coach at Laboratoria</li>
+                <p>
+                Provided guidance, mentorship, and expertise to aspiring UX designers to help them develop their skills, and enhance their understanding of user experience design principles. 🇵🇪🇪🇨🇲🇽🇨🇴
                 </p>
               </ul>
               <br></br>

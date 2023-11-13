@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Navbar from './components/Navbar';
+import a_img from './assets/a_coffee.png';
 
 
 function App() {
@@ -10,8 +11,12 @@ function App() {
 
     <div className="content">
             <div className="aboutContent">
+              <div className="imgContainer">
+              <a_img/>
+              <img className="img_style"src={a_img} alt="ana_silvia" />
+              </div>
               <p>
-              Hello, I am a User Experience Designer based in NYC 🗽. I speak Spanish, English and
+              Hello, I am a Product Designer/Front-End Web Dev based in NYC 🗽. I speak Spanish, English and
                 Italian. Fan of Mediterranean cuisine and currently reading Violeta by Isabel Allende. ✌🏼
               </p>
             </div>
@@ -24,7 +29,7 @@ function App() {
                 <li className="title">Localsumer - Product Design</li>
                 <p>From <a href="https://www.behance.net/gallery/99482723/Localsumer-Business-Directory" target="_blank">ideation</a> to launch of the <a href="https://www.localsumer.com/" target="_blank">web app</a>.</p>
                 Learn more about Localsumer in this <a href="https://www.youtube.com/watch?v=Tjxtfp9kzco" target="_blank">video</a>. 👈🏼
-                <p><i> (psst... psst... before launching we made it to round two of <a href="https://masschallenge.org/programs-mexico" target="_blank">MassChallenge Mexico</a>, and we celebrate that! 🎉)</i></p>
+                <p> (psst... psst... before launching we made it to round two of <a href="https://masschallenge.org/programs-mexico" target="_blank">MassChallenge Mexico</a>, and we celebrate that! 🎉)</p>
                 {/* <p>Also, don't forget to follow us on <a href="https://www.instagram.com/localsumer/" target="_blank">IG</a>!😉</p> */}
                 <br></br>
                 <li className="title">Flekora - UX/UI Design, Web Development</li>

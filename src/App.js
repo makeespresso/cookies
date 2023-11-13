@@ -2,14 +2,16 @@ import React from "react";
 import "./App.css";
 import Navbar from './components/Navbar';
 
+
 function App() {
   return (
     <div className="App">
     <Navbar/>
+
     <div className="content">
             <div className="aboutContent">
               <p>
-              Hello, I am a Product Designer based in NYC, currently exploring Mar de Cortéz 🌊🌵🌞. I speak Spanish, English and
+              Hello, I am a User Experience Designer based in NYC 🗽. I speak Spanish, English and
                 Italian. Fan of Mediterranean cuisine and currently reading Violeta by Isabel Allende. ✌🏼
               </p>
             </div>

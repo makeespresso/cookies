@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/cookies/static/css/main.7393ae53.chunk.css",
-    "main.js": "/cookies/static/js/main.5aaeccc5.chunk.js",
-    "main.js.map": "/cookies/static/js/main.5aaeccc5.chunk.js.map",
-    "runtime-main.js": "/cookies/static/js/runtime-main.5d8aede8.js",
-    "runtime-main.js.map": "/cookies/static/js/runtime-main.5d8aede8.js.map",
-    "static/js/2.c21bd6fc.chunk.js": "/cookies/static/js/2.c21bd6fc.chunk.js",
-    "static/js/2.c21bd6fc.chunk.js.map": "/cookies/static/js/2.c21bd6fc.chunk.js.map",
-    "static/js/3.fd3fb781.chunk.js": "/cookies/static/js/3.fd3fb781.chunk.js",
-    "static/js/3.fd3fb781.chunk.js.map": "/cookies/static/js/3.fd3fb781.chunk.js.map",
+    "main.css": "/cookies/static/css/main.ef4d8403.css",
+    "main.js": "/cookies/static/js/main.298cff01.js",
+    "static/js/787.43604c82.chunk.js": "/cookies/static/js/787.43604c82.chunk.js",
     "index.html": "/cookies/index.html",
-    "static/css/main.7393ae53.chunk.css.map": "/cookies/static/css/main.7393ae53.chunk.css.map",
-    "static/js/2.c21bd6fc.chunk.js.LICENSE.txt": "/cookies/static/js/2.c21bd6fc.chunk.js.LICENSE.txt"
+    "main.ef4d8403.css.map": "/cookies/static/css/main.ef4d8403.css.map",
+    "main.298cff01.js.map": "/cookies/static/js/main.298cff01.js.map",
+    "787.43604c82.chunk.js.map": "/cookies/static/js/787.43604c82.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d8aede8.js",
-    "static/js/2.c21bd6fc.chunk.js",
-    "static/css/main.7393ae53.chunk.css",
-    "static/js/main.5aaeccc5.chunk.js"
+    "static/css/main.ef4d8403.css",
+    "static/js/main.298cff01.js"
   ]
 }

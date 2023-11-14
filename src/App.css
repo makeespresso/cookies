@@ -116,11 +116,18 @@ font-weight: 600;
   height: auto;
   width: auto;
   background-color: #FCFCFC;
+  /* background-color: green; */
   font-family: 'Poppins', sans-serif;
   /* background-color: #EEEDE6; */
   /* font-size: calc(10px + 1.3vmin); */
   /* font-size: calc(16px + 6 * ((100vw - 320px) / 680)); */
 }
+
+#name{
+  color:#161616;
+  font-size: 4vmax;
+}
+
 a{
   font-weight: 400;
   color:#161616;
@@ -135,11 +142,6 @@ a:selection{
 
 a:hover{
 color:#588BBC;
-}
-
-#name{
-  color:#161616;
-  font-size: 4vmax;
 }
 
 
@@ -263,7 +265,8 @@ justify-content: space-between;
 }
 
 .content_container {
-  background-color: #ffffff;
+  background-color: blue;
+  width: auto;
   height: 80vh;
   margin: 2%;
   border-radius: 8px;
@@ -292,4 +295,31 @@ margin-bottom: 6%;
   height: 100%;
   border-radius: 16px;
   object-fit: cover;
+}
+.slide{
+  background-color: blue;
+  width: 40vw;
+  height: 40vh;
+  object-fit: contain;
+}
+
+
+.Gallery_img{
+  background-color: #161616;
+  width: 40vw;
+  height: 40vh;
+  object-fit: contain;
+
+}
+
+.slide{
+  background-color: blue;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.About_container{
+  background-color: blue;
+  width:100vw;
 }

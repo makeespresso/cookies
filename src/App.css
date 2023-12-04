@@ -296,30 +296,75 @@ margin-bottom: 6%;
   border-radius: 16px;
   object-fit: cover;
 }
-.slide{
-  background-color: blue;
-  width: 40vw;
-  height: 40vh;
-  object-fit: contain;
-}
 
 
-.Gallery_img{
-  background-color: #161616;
-  width: 40vw;
-  height: 40vh;
-  object-fit: contain;
 
-}
 
 .slide{
   background-color: blue;
-  width: auto;
-  height: auto;
+  width: 32%;
+  height: 100%;
   object-fit: contain;
+  object-position: top;
 }
 
 .About_container{
-  background-color: blue;
+  background-color: lightblue;
   width:100vw;
+}
+
+.footer_container{
+color:#FCFCFC;
+  width: 100%;
+  height: 40vh;
+  background-color: #161616;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-half-width{
+  background-color: lightblue;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+}
+
+.half-width{
+  width: 50%;
+  min-width: 360px;
+  height: 90%;
+  margin: 2%;
+  background-color: red;
+  /* background-color: #161616; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-container{
+background-color: purple;
+height: auto;
+width: 80%;
+min-width: 360px;
+}
+
+.slide{
+  background-color: #161616;
+  width: 100vw;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* object-fit: contain; */
+}
+
+.Gallery_img{
+  background-color: green;
+  width: 100%;
+  height: 30vh;
+  object-fit: fill;
+  background-position: top;
 }

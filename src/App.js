@@ -109,7 +109,7 @@ function App() {
               <br></br>
             </div>
           </div>
-          <Footer/>
+          {/* <Footer/> */}
         </div>
 
 

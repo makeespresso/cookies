@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/cookies/static/css/main.f188a6ba.css",
-    "main.js": "/cookies/static/js/main.21b923dc.js",
+    "main.css": "/cookies/static/css/main.0babb5bf.css",
+    "main.js": "/cookies/static/js/main.17d9b2e6.js",
     "static/js/787.43604c82.chunk.js": "/cookies/static/js/787.43604c82.chunk.js",
+    "static/media/p_14.png": "/cookies/static/media/p_14.2faef0ac0d7892fcdeb8.png",
+    "static/media/p_13.png": "/cookies/static/media/p_13.246ca2a3d7b2f9f62420.png",
+    "static/media/p_10.png": "/cookies/static/media/p_10.d4ae601b621cc786bad8.png",
+    "static/media/p_11.png": "/cookies/static/media/p_11.fb4fed19d13b10b0e804.png",
+    "static/media/p_1.png": "/cookies/static/media/p_1.3bd9ff4db9728d6facf6.png",
+    "static/media/p_8.png": "/cookies/static/media/p_8.3bd9ff4db9728d6facf6.png",
+    "static/media/p_5.png": "/cookies/static/media/p_5.4fc7d76b210029a16d92.png",
+    "static/media/p_12.png": "/cookies/static/media/p_12.eda3faec179ae475bbbf.png",
+    "static/media/p_2.png": "/cookies/static/media/p_2.231cc335ecb5faf6d10f.png",
+    "static/media/p_6.png": "/cookies/static/media/p_6.b71bf827094c22d3d211.png",
+    "static/media/p_7.png": "/cookies/static/media/p_7.9444ceb9374cc3092066.png",
+    "static/media/p_3.png": "/cookies/static/media/p_3.a5a10d49e93e3b71bba5.png",
     "static/media/a_coffee.png": "/cookies/static/media/a_coffee.022ee54148dfa0724021.png",
+    "static/media/p_9.png": "/cookies/static/media/p_9.d2bc4d49aab43bfc4a3b.png",
+    "static/media/p_16.png": "/cookies/static/media/p_16.b66be24ceb24d235dc25.png",
+    "static/media/p_4.png": "/cookies/static/media/p_4.97b3e0521b792218498b.png",
+    "static/media/p_15.png": "/cookies/static/media/p_15.322065e12998f37135b2.png",
     "index.html": "/cookies/index.html",
-    "main.f188a6ba.css.map": "/cookies/static/css/main.f188a6ba.css.map",
-    "main.21b923dc.js.map": "/cookies/static/js/main.21b923dc.js.map",
+    "main.0babb5bf.css.map": "/cookies/static/css/main.0babb5bf.css.map",
+    "main.17d9b2e6.js.map": "/cookies/static/js/main.17d9b2e6.js.map",
     "787.43604c82.chunk.js.map": "/cookies/static/js/787.43604c82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f188a6ba.css",
-    "static/js/main.21b923dc.js"
+    "static/css/main.0babb5bf.css",
+    "static/js/main.17d9b2e6.js"
   ]
 }

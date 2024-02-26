@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Navbar from './components/Navbar';
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import A_img from './assets/a_coffee.png';
 
 function App() {
@@ -14,8 +14,8 @@ function App() {
               <img className="img_style"src={A_img} alt="ana_silvia" />
               </div>
               <p>
-              Hello, I am a Product Designer/Front-End Web Dev based in NYC 🗽. I speak Spanish, English and
-                Italian. Fan of Mediterranean cuisine and currently goint through the MOMOFUKU recipies book by David Chang and Peter Meehan. 🍜
+              Hello, I am a Products Designer/Front-End Web Dev based in NYC 🗽. I speak Spanish, English and
+                Italian. Fan of Mediterranean cuisine and currently going through the MOMOFUKU recipies book by David Chang and Peter Meehan. 🍜
               </p>
             </div>
             <div className="projects list-section">
@@ -38,13 +38,13 @@ function App() {
                 <p>Web App redesign 📸</p> 
                 <p>Watch the <a href="https://drive.google.com/file/d/1dii1So3FnSlWGIKlEYGQzykfzgPyjM2o/view?usp=sharing" target="_blank">final result</a>.</p>
                 <p>See the <a href="https://drive.google.com/file/d/1WnxsNw5WEzZKmNrmvGL2C5YJhvhwf1GD/view?usp=sharing" target="_blank">design process</a> 🔁 and <a href="https://drive.google.com/file/d/1GCHbtdNG2Vdc5MCP9tqimNDzB2VZwgFE/view?usp=sharing" target="_blank">visual design</a>.🎨</p>
-                {/* <br></br>
+ <br></br>
                 <li className="title">XO Espresso Bar - UX/UI Consultation </li>
                 <p>
                   Collaboration with specialty coffee shop with Aussie vibes and instagrammable drinks in the heart of Miami beach. 🏖
                   Designed talent pipeline to help the company accelerate and facilitate their hiring process as they continue to grow.</p> 
                   <p>Take a look at the case study <a href="https://www.canva.com/design/DADua4nuPws/tWNtNjv26HwHCymlfxe0hw/view?utm_content=DADua4nuPws&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">here</a>. Also, their <a href="https://www.instagram.com/xoespressobar/" target="_blank">IG</a> is so chic! 💁🏻‍♀️☕️</p>
-                  <p><a href="https://medium.com/@anamendivil/xo-espresso-bar-image-documentation-efa3eb0d0e41" target="_blank"> Image documentation</a></p> */}
+                  <p><a href="https://medium.com/@anamendivil/xo-espresso-bar-image-documentation-efa3eb0d0e41" target="_blank"> Image documentation</a></p>
               </ul>
               <br></br>
               <br></br>
@@ -76,9 +76,11 @@ function App() {
                 <br></br>
                 <li className="title">Instructor at General Assembly</li>
                 <p>
-                  Teaching Intro to programming and Intro to UX/UI Design workshops. Recently
-                  led the first intro classes taught in Spanish for LATAM!👩🏻‍💻🌎
+                  Teaching <a href="https://generalassemb.ly/instructors/ana-benedict/22913" target="_blank">Intro to programming and Intro to UX/UI Design</a> workshops. 
+                  Leading the first intro classes taught in Spanish for LATAM!👩🏻‍💻🌎
+                  
                 </p>
+                <p></p>
                 <br></br>
                 <li className="title">UX Coach at Laboratoria</li>
                 <p>
@@ -116,25 +118,3 @@ function App() {
   );
 }
 export default App;
-
-
-{/* <h2>
-<span>Case Studies</span>
-</h2>
-<ul>
-<li className="title">Monster 👾</li>
-<p><b>Add a feature</b></p>
-<p>The challenge: To analyze an App and incorporate a new feature into the existing product.</p>
-<p>Read the <a href="https://medium.com/@anamendivil/monster-9cd85006c090" target="_blank"> case study 🎯</a></p>
-<br></br>
-<li className="title">Hot Yoga Brickell 🧘🏽‍♂️</li>
-<p>The purpose of this project is to re-design Hot Yoga Brickell website by doing a deep research, business analysis and user testability in order to create a more user-centered allowing the user to accomplish their purposes and company retain their client interaction. 🛎</p>
-<p>Read the case study <a href="https://medium.com/@anamendivil/hot-yoga-case-study-8aae4e8820f5" target="_blank"> here </a> 	&#38; learn more about the <a href="https://github.com/makeespresso/hotyogabrickell/tree/master/hotyogabrickell" target="_blank"> technical aspects</a></p>
-<br></br>
-<li className="title">White Stone 🛋</li>
-<p><b>Editorial — e-Magazine</b></p>
-<p>Design a responsive online platform for a magazine, newspaper or blog directed to meet the needs and goals of one of the given User Personas. 💫</p>
-<p>Read the case study <a href="https://medium.com/@anamendivil/editorial-e-magazine-8b1de16e0d12" target="_blank" >here</a></p>
-</ul>
-<br></br>
-<br></br> */}

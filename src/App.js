@@ -22,9 +22,12 @@ function App() {
               <p>In the digital front, I have immersed myself into web development, taking pride in crafting user-friendly creations considering the human element in every design, merging creativity with functionality to bring projects to life</p>
               <br></br>
               <p>I believe a good design it's not just about aesthetics but about creating meaningful and intuitive experiences for the end-users.</p>
-            \</div>
+              <br></br>
+              <p> I am always up for a challenge and I love learning and staying on top of the tech trends but on the outside the world of design and tech, you'll find me in the kitchen, mixing spices, drinking coffee, at the gym, or going for a long walk with my two dogs. I speak Spanish, English, and Italian fluently.</p>
+              <br></br>
+              <p>☕️☕️☕️</p>
+            </div>
             <div className="projects list-section">
-
               <h2>
                 <span>Selected work</span>
               </h2>

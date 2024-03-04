@@ -13,11 +13,16 @@ function App() {
               <div className="imgContainer">
               <img className="img_style"src={A_img} alt="ana_silvia" />
               </div>
-              <p>
-              Hello, I am a Products Designer/Front-End Web Dev based in NYC 🗽. I speak Spanish, English and
-                Italian. Fan of Mediterranean cuisine and currently going through the MOMOFUKU recipies book by David Chang and Peter Meehan. 🍜
-              </p>
-            </div>
+              <p> Hello there! 👋 </p>
+              <br></br>
+              <p>I am Ana Silvia, Product Designer & Front-End Dev.</p>
+              <br></br>
+              <p>My journey extends into the realm of pedagogics, where I bring a unique perspective to my design approach.</p>
+              <br></br>
+              <p>In the digital front, I have immersed myself into web development, taking pride in crafting user-friendly creations considering the human element in every design, merging creativity with functionality to bring projects to life</p>
+              <br></br>
+              <p>I believe a good design it's not just about aesthetics but about creating meaningful and intuitive experiences for the end-users.</p>
+            \</div>
             <div className="projects list-section">
 
               <h2>

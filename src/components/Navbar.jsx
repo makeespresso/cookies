@@ -6,7 +6,7 @@ export default class Navbar extends Component {
       <div className="NavbarContent">
         <div className="IntroHeader">
           <h1 id="name">ab.</h1>
-          <p> Ana Silvia Benedict | Product Designer</p>
+          <p> Ana Silvia Benedict| <span> Product Designer </span> </p>
           </div>
 <div className="ThirdWidthIntroHeader">
         <p><a href="https://github.com/makeespresso" target="_blank">Github</a></p>

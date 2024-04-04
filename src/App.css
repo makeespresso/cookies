@@ -160,6 +160,7 @@ color:#588BBC;
 align-items: flex-start;
 justify-content: space-between;
 
+
 }
 
 .IntroHeader {
@@ -297,8 +298,6 @@ margin-bottom: 6%;
 }
 
 
-
-
 .slide{
   background-color: blue;
   width: 32%;
@@ -336,7 +335,7 @@ color:#FCFCFC;
   min-width: 360px;
   height: 90%;
   margin: 2%;
-  background-color: red;
+  /* background-color: red; */
   /* background-color: #161616; */
   display: flex;
   align-items: center;
@@ -366,4 +365,20 @@ min-width: 360px;
   height: 30vh;
   object-fit: fill;
   background-position: top;
+}
+
+.BlockOne_header{
+  background-color: salmon;
+  width: 90%;
+  height: 90vh;
+}
+
+.BlockOne_header h1{
+font-size: 26em;
+  letter-spacing: 2.8rem;
+}
+
+.BlockOne_header p{
+  /* color: blue; */
+  font-size: 3em;
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Navbar from './components/Navbar';
+
 // import Footer from "./components/Footer";
 import A_img from './assets/a_coffee.png';
 
@@ -8,6 +9,7 @@ function App() {
   return (
     <div className="App">
     <Navbar/>
+
     <div className="content">
             <div className="aboutContent">
               <div className="imgContainer">
@@ -15,15 +17,7 @@ function App() {
               </div>
               <p> Hello there! 👋 </p>
               <br></br>
-              <p>I am Ana Silvia, Product Designer & Front-End Dev.</p>
-              <br></br>
-              <p>My journey extends into the realm of pedagogics, where I bring a unique perspective to my design approach.</p>
-              <br></br>
-              <p>In the digital front, I have immersed myself into web development, taking pride in crafting user-friendly creations considering the human element in every design, merging creativity with functionality to bring projects to life</p>
-              <br></br>
-              <p>I believe a good design it's not just about aesthetics but about creating meaningful and intuitive experiences for the end-users.</p>
-              <br></br>
-              <p> I am always up for a challenge and I love learning and staying on top of the tech trends but on the outside the world of design and tech, you'll find me in the kitchen, mixing spices, drinking coffee, at the gym, or going for a long walk with my two dogs. I speak Spanish, English, and Italian fluently.</p>
+              <p>I am a multi-disciplinary product designer. My background sits at the intersection of web development, psychology, consumer behavior, and accessibility. I consider the human element in every design, merging creativity with functionality to bring projects to life.</p>
               <br></br>
               <p>☕️☕️☕️</p>
             </div>

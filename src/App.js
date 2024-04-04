@@ -3,7 +3,7 @@ import "./App.css";
 import Navbar from './components/Navbar';
 
 // import Footer from "./components/Footer";
-import A_img from './assets/a_coffee.png';
+import A_img from './assets/p_13.png';
 
 function App() {
   return (

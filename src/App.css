@@ -109,13 +109,13 @@ font-weight: 600;
 }
 
 .App {
-  color: #161616;
+  color: black;
   display: flex;
   flex-direction: column;
   align-items: center;
   height: auto;
   width: auto;
-  background-color: #FCFCFC;
+  background-color: #F3EEE7;
   /* background-color: green; */
   font-family: 'Poppins', sans-serif;
   /* background-color: #EEEDE6; */
@@ -124,7 +124,7 @@ font-weight: 600;
 }
 
 #name{
-  color:#161616;
+  color:#E95324;
   font-size: 4vmax;
 }
 
@@ -144,6 +144,7 @@ a:hover{
 color:#588BBC;
 }
 
+span{color: #E95324;}
 
 .content {
   height: auto;
@@ -228,6 +229,7 @@ justify-content: space-between;
   transition: text-decoration-color 300ms, text-underline-offset 300ms;
   line-height: 2;
   font-weight: 800;
+
 }
 .picture-container {
 
@@ -381,4 +383,8 @@ font-size: 26em;
 .BlockOne_header p{
   /* color: blue; */
   font-size: 3em;
+}
+
+.br_space{
+  padding-bottom: 60px;
 }

@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Navbar from './components/Navbar';
 
+
 // import Footer from "./components/Footer";
 import A_img from './assets/p_13.png';
 import img_localsumer from './assets/img_localsumer.png';
@@ -29,6 +30,7 @@ function App() {
               <h2>
                 <span>Selected work</span>
               </h2>
+              <br></br>
               <ul>
                 <img className="img_style" src={img_localsumer} alt="Localsumer"/> 
                 <li className="title">Localsumer - Product Design</li>
@@ -61,6 +63,7 @@ function App() {
               <h2>
                 <span>Design Lead</span>
               </h2>
+              <br></br>
               <ul>
                 <li className="title">Terapify</li>
                 <p>
@@ -102,6 +105,7 @@ function App() {
               <h2>
 <span>Archive</span>
 </h2>
+<br></br>
 <ul>
 <li className="title">Monster 👾</li>
 <p>The challenge: To analyze an App and incorporate a new feature into the existing product.</p>

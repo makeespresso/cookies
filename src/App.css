@@ -124,7 +124,7 @@ font-weight: 600;
 }
 
 #name{
-  color:#E95324;
+  color:#F3755E;
   font-size: 4vmax;
 }
 
@@ -144,7 +144,7 @@ a:hover{
 color:#588BBC;
 }
 
-span{color: #E95324;}
+
 
 .content {
   height: auto;
@@ -199,6 +199,10 @@ justify-content: space-between;
   margin-left: auto;
   width: 90%;
   /* background-color: red; */
+}
+
+h2 span {
+color: #F3755E;
 }
 
 .aboutContent p {

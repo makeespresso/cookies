@@ -32,25 +32,28 @@ function App() {
               </h2>
               <br></br>
               <ul>
-                <img className="img_style" src={img_localsumer} alt="Localsumer"/> 
+              <a href="https://www.behance.net/gallery/99482723/Localsumer-Business-Directory" target="_blank"> <img className="img_style" src={img_localsumer} alt="Localsumer"></img></a>
+               
                 <li className="title">Localsumer - Product Design</li>
                 <p>From <a href="https://www.behance.net/gallery/99482723/Localsumer-Business-Directory" target="_blank">ideation</a> to launch of the web app.</p>
                 Learn more about Localsumer in this <a href="https://www.youtube.com/watch?v=Tjxtfp9kzco" target="_blank">video</a>. 👈🏼
                 <p className="br_space"> (psst... psst... before launching we made it to round two of <a href="https://masschallenge.org/programs-mexico" target="_blank">MassChallenge Mexico</a>, and we celebrate that! 🎉)</p>
                 {/* <p>Also, don't forget to follow us on <a href="https://www.instagram.com/localsumer/" target="_blank">IG</a>!😉</p> */}
                 <br></br>
-                <img className="img_style" src={img_flekora} alt="Flekora"/> 
+
+                <a href="https://www.behance.net/gallery/100190355/Flekora-UXUI-Case-Study" target="_blank"><img className="img_style" src={img_flekora} alt="Flekora"/></a>
                 <li className="title">Flekora - UX/UI Design, Web Development</li>
                 <p>Ideated, <a href="https://www.behance.net/gallery/100190355/Flekora-UXUI-Case-Study" target="_blank">created</a> and programmed <a href="https://weareflekora.com/#Services" target="_blank">Flekora's website</a>.👾</p>
                 <p className="br_space">Flekora is a boutique design agency offering UX/UI design, strategy, branding services. 💫</p>
                 <br></br>
-                <img className="img_style" src={img_etf} alt="ETF"/> 
-                <li className="title">ETF - UX/UI Design</li>
+                < a href="https://drive.google.com/file/d/1WnxsNw5WEzZKmNrmvGL2C5YJhvhwf1GD/view" target="_blank"><img className="img_style" src={img_etf} alt="ETF"/></a>
+                <li className="title">ETF - UX/UI Design (Spanish)</li>
                 <p>Web App redesign 📸</p> 
                 <p>Watch the <a href="https://drive.google.com/file/d/1dii1So3FnSlWGIKlEYGQzykfzgPyjM2o/view?usp=sharing" target="_blank">final result</a>.</p>
                 <p className="br_space" >See the <a href="https://drive.google.com/file/d/1WnxsNw5WEzZKmNrmvGL2C5YJhvhwf1GD/view?usp=sharing" target="_blank">design process</a> 🔁 and <a href="https://drive.google.com/file/d/1GCHbtdNG2Vdc5MCP9tqimNDzB2VZwgFE/view?usp=sharing" target="_blank">visual design</a>.🎨</p>
                 <br></br>
-                <img className="img_style" src={img_xoespresso} alt="XO Espresso"/> 
+                
+                <a href="https://www.canva.com/design/DADua4nuPws/tWNtNjv26HwHCymlfxe0hw/view?utm_content=DADua4nuPws&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank"><img className="img_style" src={img_xoespresso} alt="XO Espresso"/></a>
                 <li className="title">XO Espresso Bar - UX/UI Consultation </li>
                 <p>
                   Collaboration with specialty coffee shop with Aussie vibes and instagrammable drinks in the heart of Miami beach. 🏖

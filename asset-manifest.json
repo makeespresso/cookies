@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cookies/static/css/main.6dac387e.css",
-    "main.js": "/cookies/static/js/main.4b23fd6d.js",
+    "main.css": "/cookies/static/css/main.9e11f86b.css",
+    "main.js": "/cookies/static/js/main.4164d616.js",
     "static/js/787.43604c82.chunk.js": "/cookies/static/js/787.43604c82.chunk.js",
     "static/media/p_13.png": "/cookies/static/media/p_13.246ca2a3d7b2f9f62420.png",
     "static/media/img_flekora.png": "/cookies/static/media/img_flekora.cb99c50347d18aaab906.png",
@@ -9,12 +9,12 @@
     "static/media/img_localsumer.png": "/cookies/static/media/img_localsumer.93d9c3eb73d45e98c29f.png",
     "static/media/img_xoespresso.jpg": "/cookies/static/media/img_xoespresso.12a9c8da84feafe4a53f.jpg",
     "index.html": "/cookies/index.html",
-    "main.6dac387e.css.map": "/cookies/static/css/main.6dac387e.css.map",
-    "main.4b23fd6d.js.map": "/cookies/static/js/main.4b23fd6d.js.map",
+    "main.9e11f86b.css.map": "/cookies/static/css/main.9e11f86b.css.map",
+    "main.4164d616.js.map": "/cookies/static/js/main.4164d616.js.map",
     "787.43604c82.chunk.js.map": "/cookies/static/js/787.43604c82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dac387e.css",
-    "static/js/main.4b23fd6d.js"
+    "static/css/main.9e11f86b.css",
+    "static/js/main.4164d616.js"
   ]
 }

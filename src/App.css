@@ -109,13 +109,17 @@ font-weight: 600;
 }
 
 .App {
-  color: black;
+  color: #000;
   display: flex;
   flex-direction: column;
   align-items: center;
   height: auto;
-  width: auto;
-  background-color: #F3EEE7;
+  width: auto; 
+  /* background-image: url("./assets/gradient.jpeg"); */
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);
+  /* background-color: #F3EEE7; */
   /* background-color: green; */
   font-family: 'Poppins', sans-serif;
   /* background-color: #EEEDE6; */
@@ -124,7 +128,6 @@ font-weight: 600;
 }
 
 #name{
-  color:#F3755E;
   font-size: 4vmax;
 }
 
@@ -141,7 +144,14 @@ a:selection{
 }
 
 a:hover{
-color:#588BBC;
+color:#F8F1C7;
+font-weight: bold;
+transition: background-color 2s ease-out 100ms;
+}
+
+a:hover {
+  background-color: #000;
+  font-size: larger;
 }
 
 
@@ -202,7 +212,7 @@ justify-content: space-between;
 }
 
 h2 span {
-color: #F3755E;
+color: #000;
 }
 
 .aboutContent p {
@@ -374,7 +384,6 @@ min-width: 360px;
 }
 
 .BlockOne_header{
-  background-color: salmon;
   width: 90%;
   height: 90vh;
 }
